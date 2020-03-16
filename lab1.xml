@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<root>
+  <article index="0">
+    <title>RabbitMQ tutorial 1 — Hello World</title>
+    <nickname>zTrue</nickname>
+    <time>16 августа 2012 в 13:26</time>
+    <habs>
+      <hab>Разработка веб-сайтов</hab>
+      <hab>Python</hab>
+    </habs>
+    <text_article> ... строку «Hello World!» и ... hello', body='Hello World!')print &quot; [x] Sent 'Hello World ... hello', body='Hello World!')print &quot; [x] Sent 'Hello World ... </text_article>
+    <views>329k</views>
+  </article>
+  <article index="1">
+    <title>Назад в будущее, или Hello World сегодня и тридцать лет назад</title>
+    <nickname>kichik</nickname>
+    <time>21 октября 2015 в 15:19</time>
+    <habs>
+      <hab>Блог компании Microsoft</hab>
+      <hab>Разработка под Windows</hab>
+    </habs>
+    <text_article> ... оконного приложения “Hello World”?От Windows ... оригинальная версия программы Hello World в Windows 1 ... Windows 10: Hello WorldЯ решил попробовать ... рода аналог “Hello World”-приложения под Windows ... </text_article>
+    <views>46,5k</views>
+  </article>
+  <article index="2">
+    <title>Анализ сишного Hello World</title>
+    <nickname>gurux13</nickname>
+    <time>17 июня 2019 в 22:32</time>
+    <habs>
+      <hab>*nix</hab>
+      <hab>C</hab>
+      <hab>Разработка под Linux</hab>
+    </habs>
+    <text_article> ... ;void main() { printf(&quot;Hello World!\n&quot;);}Поскольку программа ... .rodata.LC0: .string &quot;Hello World!&quot; .text .globl main ... нашей строки «Hello World»:0. hello: printf(&quot;Hello World&quot;)1. glibc ... </text_article>
+    <views>57,9k</views>
+  </article>
+  <article index="3">
+    <title>«Hello, (real) world!» на php в 2017 году</title>
+    <nickname>varanio</nickname>
+    <time>20 февраля 2017 в 10:48</time>
+    <habs>
+      <hab>Разработка веб-сайтов</hab>
+      <hab>PHP</hab>
+      <hab>JavaScript</hab>
+      <hab>Symfony</hab>
+      <hab>ReactJS</hab>
+    </habs>
+    <text_article> ... lt;?phpecho 'Hello, world!';Конечно, чего ... Полный исходный код «hello,world» можно посмотреть здесь ... VALUES (1, 'Hello, world!');Ну, супер, с ... На экране отображается «Hello, world!». Внешне он, ... </text_article>
+    <views>70,2k</views>
+  </article>
+  <article index="4">
+    <title>«Hello world!» с помощью генетических алгоритмов</title>
+    <nickname>Kastrulya0001</nickname>
+    <time>4 августа 2010 в 18:34</time>
+    <habs>
+      <hab>Алгоритмы</hab>
+    </habs>
+    <text_article> ... алгоритм, создающий строку «Hello world!»Данный генетический алгоритм ... 		std::string(&quot;Hello world!&quot;)using namespace ... )Best: Hfllo world! (1)Best: Hello world! (0)Заключение ... </text_article>
+    <views>21,7k</views>
+  </article>
+  <article index="5">
+    <title>«Hello World!» на C массивом int main[]</title>
+    <nickname>ComradeAndrew</nickname>
+    <time>25 января 2016 в 17:57</time>
+    <habs>
+      <hab>Ненормальное программирование</hab>
+      <hab>Assembler</hab>
+      <hab>C</hab>
+    </habs>
+    <text_article> ... писал реализацию «Hello, World!» на C. ... что сообщение «Hello, World» я буду ... код символов.Hello, World!48656C6C6F2C20576F726C6421Далее нам ... eax -&gt; &quot;Hello, World!&quot; push eax ... </text_article>
+    <views>43,4k</views>
+  </article>
+  <article index="6">
+    <title>«Hello, World!» на Qt</title>
+    <nickname>Takeji</nickname>
+    <time>31 января 2009 в 23:55</time>
+    <habs>
+      <hab>Qt</hab>
+    </habs>
+    <text_article> ... написать простую программу «Hello, World!» с использованием библиотеки ... color=red&gt;Hello, World!&lt;/font&gt; ... color=red&gt;Hello, World!&lt;/font&gt; ... </text_article>
+    <views>70,9k</views>
+  </article>
+  <article index="7">
+    <title>Разработка для Pokki: Hello World</title>
+    <nickname>rodweb</nickname>
+    <time>25 августа 2011 в 19:08</time>
+    <habs>
+      <hab>Разработка веб-сайтов</hab>
+    </habs>
+    <text_article> ... &quot;A simple Hello World! style Pokki.&quot; ... код, добавляющий строку «Hello, Pokki!» во ... = document.createTextNode(&quot;Hello Pokki!&quot;);  // ... выше default.css):#hello { padding-top: ... </text_article>
+    <views>3,9k</views>
+  </article>
+  <article index="8">
+    <title>Так ли быстр ваш Framework или хватит тестировать производительность Нello World</title>
+    <nickname>coh</nickname>
+    <time>10 июля 2013 в 13:11</time>
+    <habs>
+      <hab>PHP</hab>
+    </habs>
+    <text_article> ... ;&lt;h1&gt;Hello!&lt;/h1&gt; ... ;&lt;h1&gt;Hello!&lt;/h1&gt; ... , разработчики предоставляют тест Hello World, который совершенно ни ... не читайте тесты Hello World это пустая трата ... </text_article>
+    <views>9,5k</views>
+  </article>
+  <article index="9">
+    <title>ARM-ы для самых маленьких: компоновка-2, прерывания и hello world!</title>
+    <nickname>farcaller</nickname>
+    <time>23 сентября 2013 в 14:18</time>
+    <habs>
+      <hab>Assembler</hab>
+      <hab>Системное программирование</hab>
+    </habs>
+    <text_article> ... ;наконец добираемся до hello world!Предыдущие статьи цикла ... секции .data, 04-hello-world/platform/common/platform ... не зависит.Наконец, hello habr!Эта версия ... </text_article>
+    <views>36,3k</views>
+  </article>
+  <article index="10">
+    <title>Пишем Hello World для HoloLens</title>
+    <nickname>kichik</nickname>
+    <time>20 сентября 2016 в 09:37</time>
+    <habs>
+      <hab>Блог компании Microsoft</hab>
+      <hab>Разработка под Windows</hab>
+    </habs>
+    <text_article> ... начнем делать наше hello world приложение. Запустите Unity ... статьи 3D модель Hello world. Загрузите и добавьте ... называемому пространственному якорю (World Anchor). При этом ... </text_article>
+    <views>19,5k</views>
+  </article>
+  <article index="11">
+    <title>Hello World widget для Android</title>
+    <nickname>maloii</nickname>
+    <time>25 февраля 2011 в 22:13</time>
+    <habs>
+      <hab>Разработка под Android</hab>
+    </habs>
+    <text_article> ... ;android:text=&quot;Hello Widget&quot; ... ;android:text=&quot;Hello Widget&quot; ... &quot;, &quot;Hello Habrahabr&quot; ... </text_article>
+    <views>66,2k</views>
+  </article>
+  <article index="12">
+    <title>Подготовка и запуск &quot;Hello, World!&quot;</title>
+    <nickname>foxweb</nickname>
+    <time>25 августа 2008 в 20:48</time>
+    <habs>
+      <hab>Разработка под Arduino</hab>
+    </habs>
+    <text_article> ... программа вывода строки «Hello, World!» Поскольку Arduino — это ... </text_article>
+    <views>9,9k</views>
+  </article>
+  <article index="13">
+    <title>Hello World для iPhone на MonoTouch</title>
+    <nickname>XaocCPS</nickname>
+    <time>8 августа 2009 в 12:38</time>
+    <habs>
+      <hab>Mono и Moonlight</hab>
+    </habs>
+    <text_article> ... видео с созданием Hello World на языке C# ... </text_article>
+    <views>1,5k</views>
+  </article>
+  <article index="14">
+    <title>TodoMVC — «Hello, world» на стероидах</title>
+    <nickname>ilya42</nickname>
+    <time>18 апреля 2012 в 15:42</time>
+    <habs>
+      <hab>Разработка веб-сайтов</hab>
+      <hab>JavaScript</hab>
+    </habs>
+    <text_article> ... примера вроде классического «Hello, world» явно недостаточно. Более ... </text_article>
+    <views>16,6k</views>
+  </article>
+  <article index="15">
+    <title>Маленький Hello World для маленького микроконтроллера — в 24 байта (и чужое решение в 12 байт)</title>
+    <nickname>gbg</nickname>
+    <time>13 октября 2014 в 16:42</time>
+    <habs>
+      <hab>Системное программирование</hab>
+    </habs>
+    <text_article> ... -то дисплей, является Hello World. Такая традиция была ... </text_article>
+    <views>33k</views>
+  </article>
+  <article index="16">
+    <title>Tizen Native programming. Пишем «Hello Habrahabr» для ОС Tizen</title>
+    <nickname>iostreamawm</nickname>
+    <time>7 октября 2013 в 14:42</time>
+    <habs>
+      <hab>C++</hab>
+      <hab>Разработка мобильных приложений</hab>
+      <hab>Разработка под Tizen</hab>
+    </habs>
+    <text_article> ... хедере с «Hello Tizen» на «Hello Habrahabr». Кликаем ... </text_article>
+    <views>21,6k</views>
+  </article>
+  <article index="17">
+    <title>Предел минимального Hello Word на AVR составляет 0 бит</title>
+    <nickname>NikitosZs</nickname>
+    <time>27 октября 2016 в 19:33</time>
+    <habs>
+      <hab>Программирование микроконтроллеров</hab>
+    </habs>
+    <text_article> ... запись «Предел минимального Hello Word на AVR ... моего примера минимального Hello word.Зажигать я ... </text_article>
+    <views>23,7k</views>
+  </article>
+  <article index="18">
+    <title>Hello world</title>
+    <nickname>izen</nickname>
+    <time>13 марта 2010 в 15:18</time>
+    <habs>
+      <hab>Программирование</hab>
+    </habs>
+    <text_article></text_article>
+    <views>339</views>
+  </article>
+  <article index="19">
+    <title>Hello world для виртуальной машины RAR (RarVM)</title>
+    <nickname>ValdikSS</nickname>
+    <time>29 сентября 2012 в 19:00</time>
+    <habs>
+      <hab>Ненормальное программирование</hab>
+    </habs>
+    <text_article>Верите или нет, rar архивы могут содержать простой, похожий на x86, байткод для виртуальной машины RarVM. Это сделано для того, чтобы была возможность внедрять в архив фильтры (препроцессоры) для ... </text_article>
+    <views>19,6k</views>
+  </article>
+</root>

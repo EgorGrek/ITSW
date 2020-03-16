@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2020 sp1 (x64) (http://www.altova.com) by Yehor Hrek (NURE university of ukraine) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<!-- XML Schema Generated from XML Document on Sun Mar 15 2020 19:41:12 GMT+0200 (Eastern European Standard Time) -->
+	<!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+	<xs:element name="root">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="article" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="title" type="xs:string"/>
+							<xs:element name="nickname" type="xs:string"/>
+							<xs:element name="time" type="xs:string"/>
+							<xs:element name="habs">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="hab" type="xs:string" maxOccurs="unbounded"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="text_article" type="xs:string"/>
+							<xs:element name="views" type="xs:string"/>
+						</xs:sequence>
+						<xs:attribute name="index" type="xs:int"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
